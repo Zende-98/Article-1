@@ -11,7 +11,7 @@ There are two ways to participate in OpenGov governance:
 1.  Submitting proposals
 2.  Voting
 
-1. Submitting a Proposal
+    Submitting a Proposal
 
 To submit a proposal, you must first ensure that it is clear and precise about the desired change for the blockchain. It's important to include all necessary technical details and examples to fully support the proposal. Before submitting a proposal, it is recommended to read and study existing proposals to avoid duplicates.
 
@@ -23,7 +23,7 @@ Polkassembly also offers useful resources and examples of existing proposals, wh
 
 Finally, after submission, comes the crucial step of seeking approval for the proposal. To do this, it is essential to share it widely on various communication channels of the community to raise awareness and gather the necessary support for it to be finally submitted to the votes.
 
-2. Voting
+ Voting
 
 Voting in OpenGov is open to all DOT holders. It's an opportunity to make your voice heard and contribute to the future of Polkadot. Before voting "for" or "against" a proposal, it is strongly advised to learn about the potential advantages and disadvantages of this proposal for the development of Polkadot.
 
