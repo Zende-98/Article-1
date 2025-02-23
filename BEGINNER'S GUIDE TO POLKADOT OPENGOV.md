@@ -39,6 +39,7 @@ Important Note: For a proposal to be adopted and implemented, it must obtain a m
 These are the two ways to contribute to shaping the future of Polkadot through OpenGov.
 
 Useful Resources
+https://messari.io/report/polkadot-opengov-report
 
 Polkadot Official Documentation: https://wiki.polkadot.network/
 Polkassembly:
