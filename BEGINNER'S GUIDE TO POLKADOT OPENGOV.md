@@ -1,5 +1,4 @@
-# Article-1
-BEGINNER'S GUIDE TO POLKADOT OPENGOV
+# BEGINNER'S GUIDE TO POLKADOT OPENGOV
 
 What is Polkadot's OpenGov Governance?
 
