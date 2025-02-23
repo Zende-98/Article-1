@@ -1,3 +1,4 @@
+![Screenshot_20250223-171436~2](https://github.com/user-attachments/assets/45431f2a-9e55-4120-8180-87818286dc13)
 # BEGINNER'S GUIDE TO POLKADOT OPENGOV
 
 What is Polkadot's OpenGov Governance?
